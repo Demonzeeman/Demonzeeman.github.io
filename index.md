@@ -11,6 +11,7 @@ layout: default
             <li><a href="https://demonzeeman.github.io/Band-Fan-Page/">Band Fan Page</a></li> 
             <li><a href="https://demonzeeman.github.io/weather-app-react">Weather App React</a></li>
             <li><a href="https://demonzeeman.github.io/crypto-app-react">Crypto App React</a></li>
+            <li><a href="https://demonzeeman.github.io/travel-site/">Travel Site</a></li>
         </ul>
     </div>
 </body>
